@@ -5,7 +5,7 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
-- It was an assignment
+-Too improve the website of the client
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 - Didn't build anything, we were given instructions to fix the site
 - What problem does it solve?
@@ -32,6 +32,7 @@ No installation required to view project.
 Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![Alt text](image.png)
 
     ```md
     ![alt text](assets/images/screenshot.png)
